@@ -1,0 +1,1 @@
+Example original and compressed binary files for huckleberryfinn.txt.

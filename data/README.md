@@ -1,0 +1,1 @@
+Examples of files to be compressed. Image files must have .png or .jpg extensions to be processed correctly.
